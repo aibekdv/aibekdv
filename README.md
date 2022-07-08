@@ -1,13 +1,8 @@
 <h1 align="left">Hello, world! 👋</h1>
 <h4 align="left">Меня зовут Айбек и я фронтенд разработчик со стажем более 1 года.</h3>
 
-<p>
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=aibekdv&show_icons=true&locale=ru"
-        alt="aibekdv" /> &nbsp;
-    <img align="top"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=aibekdv&show_icons=true&locale=ru&layout=compact"
-        alt="aibekdv" />
-</p>
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=aibekdv&show_icons=true&locale=ru"
+                alt="aibekdv" />
 
 <h3>Факты:</h3>
 <ul>
