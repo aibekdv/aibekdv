@@ -39,13 +39,13 @@
       <td><a href="https://github.com/aibekdv/ecommerce"><b>Современный интернет магазин (MERN stack)</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/aibekdv/recipe"><b>Рецепты для еды</b></a></td>
+      <td><a href="https://github.com/aibekdv/mern-app"><b>FullStack MERN блог (Fontend)</b></a></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/aibekdv/mern-app"><b>React.js и Node.js / FullStack MERN блог (Fontend)</b></a></td>
+      <td><a href="https://github.com/aibekdv/recipe"><b>Веб приложение (Recipe) с помощью React.js и Redux</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/aibekdv/mern-blog-backend"><b>React.js и Node.js / FullStack MERN блог (Backend)</b></a></td>
+      <td><a href="https://github.com/aibekdv/mern-blog-backend"><b>FullStack MERN блог (Backend)</b></a></td>
     </tr>
   </tbody>
 </table>
