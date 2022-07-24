@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, world!</h1>
 
 
-<p>Знающий разработчик внешнего интерфейса, умеющий создавать успешные веб-сайты, отвечающие потребностям клиентов. Полностью владеет JavaScript, TypeScript и React. Английский на уровне чтения документации. </p>
+<h5>Знающий разработчик внешнего интерфейса, умеющий создавать успешные веб-сайты, отвечающие потребностям клиентов. Полностью владеет JavaScript, TypeScript и React. Английский на уровне чтения документации. </h5>
 <h3>Вещи, с которыми я кодирую</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -36,16 +36,16 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/aibekdv/ecommerce"><b>Современный Интернет магазин (Ecommerce)</b></a></td>
+      <td><a href="https://github.com/aibekdv/ecommerce"><b>Современный интернет магазин (MERN stack)</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/aibekdv/recipe"><b>Рецепты для еды</b></a></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/aibekdv/mern-app"><b>MERN блог (Fontend)</b></a></td>
+      <td><a href="https://github.com/aibekdv/mern-app"><b>React.js и Node.js / FullStack MERN блог (Fontend)</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/aibekdv/mern-blog-backend"><b>MERN блог (Backend)</b></a></td>
+      <td><a href="https://github.com/aibekdv/mern-blog-backend"><b>React.js и Node.js / FullStack MERN блог (Backend)</b></a></td>
     </tr>
   </tbody>
 </table>
